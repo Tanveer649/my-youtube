@@ -42,7 +42,6 @@ my-youtube/
 ├── README.md
 └── package.json
 
-
 ---
 
 ## 🧪 How to Run Locally
