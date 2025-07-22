@@ -1,3 +1,6 @@
+
+// NOT USED IN PROJECT, THIS IS JUST FOR PRACTICE.
+
 import { useState } from "react";
 
 const Demo = () => {
