@@ -24,24 +24,20 @@ A responsive YouTube clone built using **React** and **Tailwind CSS**, replicati
 - **YouTube Data API v3** – For fetching real video data
 
 ---
-
-## 📁 Folder Structure
-
-my-youtube/
-│
-├── public/
-│ └── index.html
-│
-├── src/
-│ ├── components/ # Reusable components (Header, Sidebar, VideoCard, etc.)
-│ ├── store/ # Redux logic (if used)
-│ ├── App.js # Main component with routing
-│ └── index.js # App entry point
-│
+ ```
+📁 my-youtube/
+├── 📁 public/
+│   └── index.html
+├── 📁 src/
+│   ├── 📁 components/      # Reusable components (Header, Sidebar, VideoCard, etc.)
+│   ├── 📁 store/           # Redux logic (if used)
+│   ├── App.js             # Main component with routing
+│   └── index.js           # App entry point
 ├── .gitignore
 ├── README.md
 └── package.json
 
+```
 ---
 
 ## 🧪 How to Run Locally
